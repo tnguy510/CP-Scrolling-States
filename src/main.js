@@ -1,6 +1,6 @@
-// Example 03: Scrolling States
+// Code Practice: Scrolling States
 // Name: Trish Nguyen
-// Date: 11/6/2023
+// Date: 2/9/2023
 
 'use strict'
 
